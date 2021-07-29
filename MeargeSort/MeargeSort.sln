@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeargeSort", "MeargeSort\MeargeSort.csproj", "{D60BF4DB-0673-429D-BAC1-9BE74EA61FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60BF4DB-0673-429D-BAC1-9BE74EA61FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60BF4DB-0673-429D-BAC1-9BE74EA61FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60BF4DB-0673-429D-BAC1-9BE74EA61FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60BF4DB-0673-429D-BAC1-9BE74EA61FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43E7FC28-524F-421C-8A3E-613523ED5F32}
+	EndGlobalSection
+EndGlobal
